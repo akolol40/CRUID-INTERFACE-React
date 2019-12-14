@@ -1,4 +1,4 @@
-const json = `{
+{
     "block": "warning",
     "content": [
         {
@@ -19,4 +19,4 @@ const json = `{
             ]
         }
     ]
-}`;
+}
